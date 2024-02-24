@@ -37,10 +37,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/ibrahimdevop21"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ibrahimdevop21" /></a></p><br><br>
 <br>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahimdevop21&show_icons=true&locale=en&layout=compact" alt="ibrahimdevop21" /></p>
-<br>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahimdevop21&show_icons=true&locale=en" alt="ibrahimdevop21" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimdevop21&" alt="ibrahimdevop21" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimdevop21" alt="ibrahimdevop21" /></p>
