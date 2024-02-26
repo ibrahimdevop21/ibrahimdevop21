@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ibrahim</h1>
-<h3 align="center">A passionate frontend developer from Sudan-Egypt</h3>
+<h3 align="center">A passionate frontend developer </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibrahimdevop21" alt="ibrahimdevop21" /></a> </p>
 
@@ -11,17 +11,6 @@
 
 - 👯 I’m looking to collaborate on [Contribute-To-This-Project](https://github.com/ibrahimdevop21/Contribute-To-This-Project)
 
-- 🤝 I’m looking for help with [JavaScript](https://github.com/ibrahimdevop21/Modern-JavaScript-from-the-Beginning---Second-Edition)
-
-- 👨‍💻 All of my projects are available at [https://github.com/ibrahimdevop21](https://github.com/ibrahimdevop21)
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/ibrahimdevop21/](https://www.linkedin.com/in/ibrahimdevop21/)
-
-- 💬 Ask me about **Linux, frontend web development**
-
-- 📫 How to reach me **ibrahimdevop21@gmail.com**
-
-- ⚡ Fun fact **this is my third career shift, and i'm lovin it.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
