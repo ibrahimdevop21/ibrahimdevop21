@@ -1,9 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Ibrahim+Mohamed;I'm+A+Self+Tought+Frontend+Developer)](https://git.io/typing-svg)
 
+
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
 <h3 align="center">"Talk is cheap. Show me the code"</h3>
 <h4 align="center">- Linus Torvalds -</h4>
 <br>
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 <br>
 <!--- stats & Trophy (start) -->
@@ -40,7 +43,6 @@
 <!--- stats (end) -->
 
 <br>
-## Language and Tools
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
@@ -53,7 +55,7 @@
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=nodejs"/>](https://nodejs.org/en)
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=react"/>](https://react.dev/)
 
-#### Studying in this moment:
+#### At this moment Learning:
 
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=sass"/>](https://sass-lang.com/)
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=react"/>](https://www.typescriptlang.org/)
@@ -69,29 +71,5 @@
 
 <br>
 
-## About Me:
-
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 
-<h1 align="center">Hi 👋, I'm ibrahim</h1>
-<h3 align="center">A passionate frontend developer </h3>
-
-
-<p align="left"> <a href="https://twitter.com/ibrahimdevop212" target="blank"><img src="https://img.shields.io/twitter/follow/ibrahimdevop212?logo=twitter&style=for-the-badge" alt="ibrahimdevop212" /></a> </p>
-
-- 🔭 I’m currently working on [Mastering MERN](https://github.com/ibrahimdevop21/angela-Yu-bootcamp)
-
-- 🌱 I’m currently learning **MongoDb, React.**
-
-- 👯 I’m looking to collaborate on [Contribute-To-This-Project](https://github.com/ibrahimdevop21/Contribute-To-This-Project)
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ibrahimdevop212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ibrahimdevop212" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ibrahimdevop21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibrahimdevop21" height="30" width="40" /></a>
-<a href="https://fb.com/resto420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="resto420" height="30" width="40" /></a>
-<a href="https://discord.gg/ibrahimdevop21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ibrahimdevop21" height="30" width="40" /></a>
-</p>
-<br>
